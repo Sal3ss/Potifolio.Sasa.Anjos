@@ -21,4 +21,4 @@ Descrição: Eu fiz tudo corretamente, não vi nenhuma dificuldade além de enco
 
 Link para o acesso de ao projeto:
 
-<a href="https://script.google.com/macros/s/AKfycbyNXMBHlEfMl0gCPV6039_806qOtEBuGhRlbTpiBWgRVjAVktmUf2pIKwhvzke7vHFk/exec" </a>
+<a href="https://script.google.com/macros/s/AKfycbyNXMBHlEfMl0gCPV6039_806qOtEBuGhRlbTpiBWgRVjAVktmUf2pIKwhvzke7vHFk/exec"</a>
